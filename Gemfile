@@ -15,6 +15,7 @@ group :development, :test do
   gem 'childprocess', '0.3.6'
   gem 'growl'
   gem 'growl_notify'
+  gem 'pry-rails'
 end
 
 # Gems used only for assets and not required
